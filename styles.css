@@ -1,0 +1,42 @@
+body {
+    background-color:  lightgray;
+    margin: 0;
+}
+.container {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+.post {
+    background-color: white;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.headerPost {
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    margin-left: 10px;
+}
+.headerPost p {
+    padding-top: 10px;
+    margin-right: 10px;
+    margin-left: auto;
+}
+div.post img {
+    width: 100%;
+}
+h2 {
+    width: 80%;
+}
+.footer {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    padding: 10px;
+}
